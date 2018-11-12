@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "549c3ffb682e9959fa73",
-    "url": "/static/css/main.b471e81e.chunk.css"
+    "revision": "b20a493b9bd3c46a5d39",
+    "url": "/static/css/main.3a83d288.chunk.css"
   },
   {
     "revision": "d3fa20b6f09cd5637806",
@@ -36,20 +36,20 @@ self.__precacheManifest = [
     "url": "/static/js/getting-started-wizard.dd0ff23a.chunk.js"
   },
   {
-    "revision": "549c3ffb682e9959fa73",
-    "url": "/static/js/main.549c3ffb.chunk.js"
+    "revision": "b20a493b9bd3c46a5d39",
+    "url": "/static/js/main.b20a493b.chunk.js"
   },
   {
     "revision": "d5ebe9c8e34303b60a35",
     "url": "/static/js/createIntroJs.d5ebe9c8.chunk.js"
   },
   {
-    "revision": "9a29916aaab1b8b0c2c3",
-    "url": "/static/js/runtime~main.9a29916a.js"
+    "revision": "da2098e50d8d3103b0d7",
+    "url": "/static/js/runtime~main.da2098e5.js"
   },
   {
-    "revision": "6b9728f4e1a232a25fab",
-    "url": "/static/js/introjsStyles.6b9728f4.chunk.js"
+    "revision": "ffc32b8b5e94c4f9b671",
+    "url": "/static/js/introjsStyles.ffc32b8b.chunk.js"
   },
   {
     "revision": "b37e355bfaf10bc13350",
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/static/js/12.99749397.chunk.js"
   },
   {
-    "revision": "6b9728f4e1a232a25fab",
-    "url": "/static/css/introjsStyles.ea58d5e9.chunk.css"
+    "revision": "ffc32b8b5e94c4f9b671",
+    "url": "/static/css/introjsStyles.033ed024.chunk.css"
   },
   {
-    "revision": "3a8c7a6444394d6bc5ce7544d86fec05",
+    "revision": "0d8555eb8f498529a52ec4bc71d2752a",
     "url": "/index.html"
   }
 ];
